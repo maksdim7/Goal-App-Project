@@ -1,5 +1,5 @@
 # Goal App Project
-This is my university project - Goal App! It`s main purpose its to organise the user`s goals or tasks easily. It has
+This is my university project - Goal App! Its main purpose its to organise the user`s goals or tasks easily. It has
 plain and simple design which could be found appealing by many. The features are not complex, the user can enter his/hers tasks
 and if needed set a notification which works as a reminder for the task. After adding the goal, the user could delete it in case
 there is a mistake or delete it after completion just by pressing on it. If there is a scheduled notification and the user complete
